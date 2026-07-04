@@ -1,0 +1,1 @@
+import{j as e}from"./reset-BR_7iloF.js";function a({label:r="Yükleniyor..."}){return e.jsxs("div",{className:"loader",role:"status","aria-live":"polite",children:[e.jsx("span",{className:"loader__spinner","aria-hidden":"true"}),e.jsx("span",{children:r})]})}export{a as L};

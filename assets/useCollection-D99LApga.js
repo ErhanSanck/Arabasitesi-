@@ -1,0 +1,1 @@
+import{r as e}from"./reset-BR_7iloF.js";function i(t){const[u,r]=e.useState([]),[n,s]=e.useState(!0);return e.useEffect(()=>(s(!0),t.subscribe(c=>{r(c),s(!1)})),[t]),{items:u,loading:n}}export{i as u};
